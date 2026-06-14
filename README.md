@@ -55,3 +55,21 @@ This project can be deployed on a remote Linux server.
 5. Check User Info
 6. Exit
 ===============================
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Create User
+![Create User](screenshots/create_user.png)
+
+### Delete User
+![Delete User](screenshots/delete_user.png)
+
+### List All Users
+![List Users](screenshots/list_user.png)
+
+### Exit
+![Exit](screenshots/exit_user.png)
+
