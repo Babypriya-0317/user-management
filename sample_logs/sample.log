@@ -1,0 +1,7 @@
+[2026-06-14_10-15-00] SUCCESS - User test1 created
+[2026-06-14_10-16-00] SUCCESS - User test1 added to group developers
+[2026-06-14_10-17-00] SUCCESS - User test2 created
+[2026-06-14_10-18-00] FAILED - User test1 already exists
+[2026-06-14_10-19-00] SUCCESS - User test2 deleted
+[2026-06-14_10-20-00] INFO - Listed all users
+[2026-06-14_10-21-00] INFO - Script exited
